@@ -7,7 +7,7 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/BalaiKota.png"
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/BalaiKota.jpg"
         },
         {
             "title"         : "Litografi Gereja",
@@ -16,7 +16,7 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/MuseumWayang.png"
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/MuseumWayang.jpg"
         },
         {
             "title"         : "Litografi Monumen Peter Eberveld",
@@ -25,7 +25,7 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/MonumenPeterEberveld.png"
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/MonumenPeterEberveld.jpg"
         },
         {
             "title"         : "Litografi Panti Asuhan",
@@ -34,7 +34,7 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/PantiAsuhan.png"
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/PantiAsuhan.jpg"
         },
         {
             "title"         : "Litografi Suasana Pecinan",
@@ -43,7 +43,7 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/Pecinan.png"
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/Pecinan.jpg"
         },
         {
             "title"         : "Litografi Pasar Ikan",
@@ -52,7 +52,7 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/PasarIkan.png"
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/PasarIkan.jpg"
         },
         {
             "title"         : "Litografi Taman Prasasti",
@@ -61,7 +61,7 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/TamanPrasasti.png"
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/TamanPrasasti.jpg"
         },
         {
             "title"         : "Litografi Tembok Kota Batavia",
@@ -70,6 +70,6 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/TembokKota.png"
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/TembokKota.jpg"
         }
     ]}
