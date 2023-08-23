@@ -7,7 +7,7 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Stone%20Tools%20(Paleolithic).png"
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/BalaiKota.png"
         },
         {
             "title"         : "Litografi Gereja",
@@ -16,7 +16,7 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : "./assets/test.png"
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/MuseumWayang.png"
         },
         {
             "title"         : "Litografi Monumen Peter Eberveld",
@@ -25,7 +25,7 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : "./litografiBatavia/MonumenPeterEverveld.jpg"
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/MonumenPeterEberveld.png"
         },
         {
             "title"         : "Litografi Panti Asuhan",
@@ -43,7 +43,7 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : ""
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/PantiAsuhan.png"
         },
         {
             "title"         : "Litografi Pelabuhan Batavia",
@@ -52,7 +52,7 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : ""
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/PelabuhanBatavia.png"
         },
         {
             "title"         : "Litografi Taman Prasasti",
@@ -61,7 +61,7 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : ""
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/TamanPrasasti.png"
         },
         {
             "title"         : "Litografi Tembok Kota Batavia",
@@ -70,6 +70,6 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : ""
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/TembokKota.png"
         }
     ]}
