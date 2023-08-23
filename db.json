@@ -34,7 +34,7 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : ""
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/PantiAsuhan.png"
         },
         {
             "title"         : "Litografi Suasana Pecinan",
@@ -43,16 +43,16 @@
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/PantiAsuhan.png"
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/Pecinan.png"
         },
         {
-            "title"         : "Litografi Pelabuhan Batavia",
+            "title"         : "Litografi Pasar Ikan",
             "id"            : 5,
             "year"          : "",
             "author"        : "",
             "type"          : "",
             "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/PelabuhanBatavia.png"
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/PasarIkan.png"
         },
         {
             "title"         : "Litografi Taman Prasasti",
