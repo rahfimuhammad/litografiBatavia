@@ -1,0 +1,75 @@
+{"litografiBatavia": 
+    [
+        {
+            "title"         : "Litografi Balai Kota",
+            "id"            : 0,
+            "year"          : "",
+            "author"        : "",
+            "type"          : "",
+            "description"   : "",
+            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Stone%20Tools%20(Paleolithic).png"
+        },
+        {
+            "title"         : "Litografi Gereja",
+            "id"            : 1,
+            "year"          : "",
+            "author"        : "",
+            "type"          : "",
+            "description"   : "",
+            "source"        : "./assets/test.png"
+        },
+        {
+            "title"         : "Litografi Monumen Peter Eberveld",
+            "id"            : 2,
+            "year"          : "",
+            "author"        : "",
+            "type"          : "",
+            "description"   : "",
+            "source"        : "./litografiBatavia/MonumenPeterEverveld.jpg"
+        },
+        {
+            "title"         : "Litografi Panti Asuhan",
+            "id"            : 3,
+            "year"          : "",
+            "author"        : "",
+            "type"          : "",
+            "description"   : "",
+            "source"        : ""
+        },
+        {
+            "title"         : "Litografi Suasana Pecinan",
+            "id"            : 4,
+            "year"          : "",
+            "author"        : "",
+            "type"          : "",
+            "description"   : "",
+            "source"        : ""
+        },
+        {
+            "title"         : "Litografi Pelabuhan Batavia",
+            "id"            : 5,
+            "year"          : "",
+            "author"        : "",
+            "type"          : "",
+            "description"   : "",
+            "source"        : ""
+        },
+        {
+            "title"         : "Litografi Taman Prasasti",
+            "id"            : 6,
+            "year"          : "",
+            "author"        : "",
+            "type"          : "",
+            "description"   : "",
+            "source"        : ""
+        },
+        {
+            "title"         : "Litografi Tembok Kota Batavia",
+            "id"            : 7,
+            "year"          : "",
+            "author"        : "",
+            "type"          : "",
+            "description"   : "",
+            "source"        : ""
+        }
+    ]}
