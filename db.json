@@ -1,75 +1,32 @@
-{"litografiBatavia": 
+{   "museum":    
     [
         {
-            "title"         : "Litografi Balai Kota",
-            "id"            : 0,
-            "year"          : "",
-            "author"        : "",
-            "type"          : "",
-            "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/BalaiKota.jpg"
+            "name" : "Museum Sejarah Jakarta",
+            "location": "Jakarta",
+            "id"      : 0,
+            "description": "Lorem ipsum dolor sit amet",
+            "reviews": [
+                        {"user": "abc",
+                        "rating": 5,
+                        "review": "Lorem ipsum dolor sit amet"},
+                        {"user": "def",
+                        "rating": 4,
+                        "review": "Lorem ipsum dolor sit amet"}
+            ]
         },
         {
-            "title"         : "Litografi Gereja",
-            "id"            : 1,
-            "year"          : "",
-            "author"        : "",
-            "type"          : "",
-            "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/GerejaMuseumWayang.jpg"
-        },
-        {
-            "title"         : "Litografi Monumen Peter Eberveld",
-            "id"            : 2,
-            "year"          : "",
-            "author"        : "",
-            "type"          : "",
-            "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/MonumenPeterEberveld.jpg"
-        },
-        {
-            "title"         : "Litografi Panti Asuhan",
-            "id"            : 3,
-            "year"          : "",
-            "author"        : "",
-            "type"          : "",
-            "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/PantiAsuhan.jpg"
-        },
-        {
-            "title"         : "Litografi Suasana Pecinan",
-            "id"            : 4,
-            "year"          : "",
-            "author"        : "",
-            "type"          : "",
-            "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/Pecinan.jpg"
-        },
-        {
-            "title"         : "Litografi Pasar Ikan",
-            "id"            : 5,
-            "year"          : "",
-            "author"        : "",
-            "type"          : "",
-            "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/PasarIkan.jpg"
-        },
-        {
-            "title"         : "Litografi Taman Prasasti",
-            "id"            : 6,
-            "year"          : "",
-            "author"        : "",
-            "type"          : "",
-            "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/TamanPrasasti.jpg"
-        },
-        {
-            "title"         : "Litografi Tembok Kota Batavia",
-            "id"            : 7,
-            "year"          : "",
-            "author"        : "",
-            "type"          : "",
-            "description"   : "",
-            "source"        : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/TembokKota.jpg"
+            "name" : "Museum Nasional",
+            "location": "Jakarta",
+            "id"      : 1,
+            "description": "Lorem ipsum dolor sit amet",
+            "reviews": [
+                        {"user": "ghi",
+                        "rating": 5,
+                        "review": "Lorem ipsum dolor sit amet"},
+                        {"user": "jkl",
+                        "rating": 5,
+                        "review": "Lorem ipsum dolor sit amet"}
+            ]
         }
-    ]}
+    ]
+}
