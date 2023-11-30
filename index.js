@@ -1,10 +1,17 @@
-const jsonServer = require("json-server");
-const server = jsonServer.create();
-const router = jsonServer.router("db.json");
-const middlewares = jsonServer.defaults();
-const port = process.env.PORT || 3000;
+const express = require('express');
+const cors = require('cors');
+const jsonServer = require('json-server');
+const server = express();
 
-server.use(middlewares);
-server.use(router);
+// Mengizinkan permintaan dari semua domain (ini mungkin tidak cocok untuk produksi)
+server.use(cors());
 
-server.listen(port);
+// Gunakan router JSON Server untuk mengelola rute
+server.use(jsonServer.router('db.json'));
+
+// Port server
+const port = 3000;
+
+server.listen(port, () => {
+  console.log(`JSON Server is running on port ${port}`);
+});
