@@ -2,10 +2,12 @@ const jsonServer = require("json-server");
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
+const bodyParser = require('body-parser');
 
 const port = process.env.PORT || 3000;
 
 server.use(middlewares);
+server.use(bodyParser.json()); // Pastikan middleware ini ada
 
 // Endpoint POST untuk menambahkan ulasan pada museum tertentu
 server.post('/museum/:id/reviews', (req, res, next) => {
