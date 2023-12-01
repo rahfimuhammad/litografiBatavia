@@ -5,6 +5,7 @@
             "location": "Jakarta",
             "id"      : 0,
             "description": "Lorem ipsum dolor sit amet",
+            "rate": [5, 4],
             "reviews": [
                         {"user": "abc",
                         "rating": 5,
@@ -19,6 +20,7 @@
             "location": "Jakarta",
             "id"      : 1,
             "description": "Lorem ipsum dolor sit amet",
+            "rate": [5, 5],
             "reviews": [
                         {"user": "ghi",
                         "rating": 5,
