@@ -1,34 +1,31 @@
 {   "museum":    
     [
         {
-            "name" : "Museum Sejarah Jakarta",
-            "location": "Jakarta",
-            "id"      : 0,
+            "name" : "Museum Fatahillah",
+            "location": "Jakarta, Indonesia",
+            "id"      : 510,
             "description": "Lorem ipsum dolor sit amet",
-            "rate": [5, 4],
-            "reviews": [
-                        {"user": "abc",
-                        "rating": 5,
-                        "review": "Lorem ipsum dolor sit amet"},
-                        {"user": "def",
-                        "rating": 4,
-                        "review": "Lorem ipsum dolor sit amet"}
-            ]
+            "image": "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/museum-fatahillah.jpg"
+            "rate": [],
+            "reviews": []
         },
         {
             "name" : "Museum Nasional",
-            "location": "Jakarta",
-            "id"      : 1,
+            "location": "Jakarta, Indonesia",
+            "id"      : 521,
+            "image": "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/museum-nasional.jpg",
             "description": "Lorem ipsum dolor sit amet",
-            "rate": [5, 5],
-            "reviews": [
-                        {"user": "ghi",
-                        "rating": 5,
-                        "review": "Lorem ipsum dolor sit amet"},
-                        {"user": "jkl",
-                        "rating": 5,
-                        "review": "Lorem ipsum dolor sit amet"}
-            ]
+            "rate": [],
+            "reviews": []
+        },
+        {
+            "name" : "Museum Geologi",
+            "location": "Bandung, Indonesia",
+            "id"      : 532,
+            "image": "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/museum-geologi.jpg",
+            "description": "Lorem ipsum dolor sit amet",
+            "rate": [],
+            "reviews": []
         }
     ]
 }
