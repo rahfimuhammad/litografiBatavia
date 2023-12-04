@@ -4,7 +4,7 @@
             "name" : "Museum Fatahillah",
             "location": "Jakarta, Indonesia",
             "id"      : 510,
-            "description": "Lorem ipsum dolor sit amet",
+            "description": "Museum Fatahillah atau Museum Sejarah Jakarta adalah sebuah museum yang menyajikan sejarah Jakarta sejak masa prasejarah hingga masa pasca kolonial",
             "image": "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/museum-fatahillah.jpg",
             "logo": "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/museum-fatahillah-logo.png",
             "rate": [],
@@ -16,7 +16,7 @@
             "id"      : 521,
             "image": "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/museum-nasional.jpg",
             "logo": "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/museum-nasional-logo.png",
-            "description": "Lorem ipsum dolor sit amet",
+            "description": "Museum Nasional adalah museum yang merangkum seluruh koleksi sejarah dan kebudayaan Indonesia. Ada 190.000an benda bernilai sejarah yang terdiri dari 7 jenis koleksi yakni Prasejarah, Arkeologi Klasik, Numismatik dan Heraldik, Keramik, Etnografi, Geografi dan Sejarah",
             "rate": [],
             "reviews": []
         },
@@ -26,7 +26,7 @@
             "id"      : 532,
             "image": "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/museum-geologi.jpg",
             "logo": "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/museum-geologi-logo.png",
-            "description": "Lorem ipsum dolor sit amet",
+            "description": "Museum Geologi Bandung menyajikan koleksi-koleksi yang memuat informasi mengenai ilmu kebumian dan keadaan geologi Indonesia seperti fosil, mineral, dan batuan",
             "rate": [],
             "reviews": []
         }
