@@ -6,6 +6,7 @@
             "id"      : 510,
             "description": "Lorem ipsum dolor sit amet",
             "image": "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/museum-fatahillah.jpg",
+            "logo": "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/museum-fatahillah-logo.png",
             "rate": [],
             "reviews": []
         },
@@ -14,6 +15,7 @@
             "location": "Jakarta, Indonesia",
             "id"      : 521,
             "image": "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/museum-nasional.jpg",
+            "logo": "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/museum-nasional-logo.png",
             "description": "Lorem ipsum dolor sit amet",
             "rate": [],
             "reviews": []
@@ -23,6 +25,7 @@
             "location": "Bandung, Indonesia",
             "id"      : 532,
             "image": "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/museum-geologi.jpg",
+            "logo": "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/museum-geologi-logo.png",
             "description": "Lorem ipsum dolor sit amet",
             "rate": [],
             "reviews": []
