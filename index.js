@@ -10,7 +10,7 @@ const port = process.env.PORT || 3000;
 const checkReferer = (req, res, next) => {
   const referer = req.get('Referer');
   // Sesuaikan dengan domain Anda
-  if (referer && referer.startsWith('https://abc.com')) {
+  if (referer && referer.startsWith('https://rahfimuhammad.github.io/arc-today/')) {
     next();
   } else {
     res.status(403).json({ message: 'Forbidden' });
