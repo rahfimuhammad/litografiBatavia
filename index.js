@@ -6,57 +6,59 @@ const bodyParser = require('body-parser');
 
 const port = process.env.PORT || 3000;
 
-// Middleware untuk memeriksa referer dari permintaan POST
-const checkReferer = (req, res, next) => {
-  const referer = req.get('Referer');
-  // Sesuaikan dengan domain Anda
-  if (referer && referer.startsWith('https://rahfimuhammad.github.io/arc-today/')) {
-    next();
-  } else {
-    res.status(403).json({ message: 'Forbidden' });
-  }
-};
-
 server.use(middlewares);
 server.use(bodyParser.json()); // Pastikan middleware ini ada
-server.use(checkReferer);
 
 // Endpoint POST untuk menambahkan ulasan pada museum tertentu
-server.post('/museum/:id/reviews', (req, res) => {
+server.post('/museum/:id/reviews', (req, res, next) => {
   const museumId = parseInt(req.params.id);
   const review = req.body;
 
+  // Ambil data dari db.json
   const museums = router.db.get('museum').value();
+
+  // Cari museum dengan id yang sesuai
   const museum = museums.find((m) => m.id === museumId);
 
   if (museum) {
+    // Jika museum ditemukan, tambahkan ulasan ke dalam array reviews
     museum.reviews = museum.reviews || [];
     museum.reviews.push(review);
 
+    // Simpan perubahan
     router.db.set('museum', museums).write();
 
+    // Kirim ulasan yang baru ditambahkan
     res.json(review);
   } else {
+    // Jika museum tidak ditemukan, kirim respons dengan status 404
     res.status(404).json({ message: 'Museum not found' });
   }
 });
 
 // Endpoint POST untuk menambahkan rating pada museum tertentu
-server.post('/museum/:id/rate', (req, res) => {
+server.post('/museum/:id/rate', (req, res, next) => {
   const museumId = parseInt(req.params.id);
   const rating = req.body.rating;
 
+  // Ambil data dari db.json
   const museums = router.db.get('museum').value();
+
+  // Cari museum dengan id yang sesuai
   const museum = museums.find((m) => m.id === museumId);
 
   if (museum) {
-    museum.ratings = museum.ratings || [];
-    museum.ratings.push(rating);
+    // Jika museum ditemukan, tambahkan rating ke dalam array rate
+    museum.rate = museum.rate || [];
+    museum.rate.push(rating);
 
+    // Simpan perubahan
     router.db.set('museum', museums).write();
 
+    // Kirim rating yang baru ditambahkan
     res.json({ rating });
   } else {
+    // Jika museum tidak ditemukan, kirim respons dengan status 404
     res.status(404).json({ message: 'Museum not found' });
   }
 });
